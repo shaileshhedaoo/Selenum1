@@ -1,5 +1,11 @@
 
 public class Demo {
-  //wellcom to github
+  public static void main(String[] args)
+  {
+  System.out.println("Hello world");
+    //wellcom to github
+  //hii from github
+    }
+  
 
 }
